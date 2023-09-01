@@ -1,6 +1,6 @@
 # 3D-Flip-Book-Tutorial-Customized
 
-[view in browser](https://codingstar-jason.github.io/3D-Flip-Book-Tutorial-Customized-CodingStar/)
+[view in browser](https://tamilarasi-smvcoder.github.io/Practice/3D-Flip-Book/index.html)
 
 ### Shoutout 🙌
 
